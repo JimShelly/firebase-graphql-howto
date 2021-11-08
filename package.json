@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/JimShelly/firebase-graphql-howto#readme",
   "dependencies": {
-    "apollo-server": "^2.10.0",
+    "apollo-server": "^2.25.3",
     "apollo-server-express": "^2.10.0",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
